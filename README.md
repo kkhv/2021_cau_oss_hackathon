@@ -65,3 +65,5 @@
 **(중요) 최종 제출물이 가장 최신 버전인지, GitHub에 잘 올라가졌는지 다시 한번 확인 부탁드립니다.**
 
 **포스터 자료는 8/28 (토) 오후 12시까지 조교 (cau.oss.hackathon.ta@gmail.com) 메일로 제출**
+
+![image](https://user-images.githubusercontent.com/68328871/143729332-e4d59bb2-9190-40d2-9395-9b5aaf3602a2.png)
